@@ -155,7 +155,7 @@ section.placeholder-text {
 .carousel {
   position: relative;
   /*max-width: 600px;*/
-  width: 50vw;
+  width: 80vw;
   margin: 0 auto 30px;
 }
 
@@ -207,10 +207,12 @@ section.placeholder-text {
 
 .prev-btn {
   left: 10px;
+  font-size:8vw;
 }
 
 .next-btn {
   right: 10px;
+  font-size:8vw;
 }
 
 .placeholder-text p {
